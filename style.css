@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --primary-color: blueviolet;
+    --primary-color: rgb(57, 155, 240);
 }
 
 * {
@@ -30,7 +30,7 @@ body {
     min-width: 200px;
     max-width: 200px;
     height: 100%;
-    background-color: #222222;
+    background-color: #3a15a7;
 
     display: flex;
     flex-direction: column;
